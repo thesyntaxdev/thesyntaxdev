@@ -4,6 +4,6 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=thesyntaxdev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 ![](https://streak-stats.demolab.com/?user=thesyntaxdev&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=thesyntaxdev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
